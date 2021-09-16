@@ -4,3 +4,5 @@ Random gobbly gook hodgepodge of notes that I hope will make sense to me in 2 we
 
 * [Day 1](Day_1/README.md)
 * [Day 2](Day_2/README.md)
+* [Day 3](Day_3/README.md)
+* [Cheatsheets](Cheatsheets/README.md)
