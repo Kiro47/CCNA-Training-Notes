@@ -1,0 +1,6 @@
+* [Lab 31](Day_5_Lab_31.md)
+* [Lab 32](Day_5_Lab_32.md)
+* [Lab 33](Day_5_Lab_33.md)
+* [Lab 34](Day_5_Lab_34.md)
+* [Lab 35](Day_5_Lab_35.md)
+* [Lab 36](Day_5_Lab_36.md)
